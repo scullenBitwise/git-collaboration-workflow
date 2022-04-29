@@ -17,8 +17,8 @@
 - - -
 
 1. Create a new GitHub repository: 
-  * If creating a brand-new repo with no existing local code, be sure to check 'Add a README file' and optionally 'Add .gitignore'
-  * If creating a brand-new repo and linking it up to existing local code, do not add a README or .gitignore through GitHub
+    * If creating a brand-new repo with no existing local code, be sure to check 'Add a README file' and optionally 'Add .gitignore'
+    * If creating a brand-new repo and linking it up to existing local code, do not add a README or .gitignore through GitHub
 2. Set branch protection rules for the main/main branch.
 3. Add all team members as collaborators.
 4. Have each teammate clone the repository.
